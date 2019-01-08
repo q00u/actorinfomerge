@@ -1,0 +1,11 @@
+{
+  "original": "C:\\dev\\wiiumod\\ninten-file-tool-0.9\\ninten-file-tool-0.9\\ActorInfo.product.sbyml.json",
+  "mods": {
+    "5": "Q:\\Games\\cemu\\wiiumod\\modstemp\\warmer_doublet\\Content\\Actor\\ActorInfo.product.sbyml.json",
+    "4": "Q:\\Games\\cemu\\wiiumod\\modstemp\\level_20_dlc_armor\\content\\Actor\\ActorInfo.product.sbyml.json",
+    "3": "Q:\\Games\\cemu\\wiiumod\\modstemp\\godly_epona\\Content\\Actor\\ActorInfo.product.sbyml.json",
+    "2": "Q:\\Games\\cemu\\wiiumod\\modstemp\\better-fully-upgraded-armor-v11_e594c\\Content\\Actor\\ActorInfo.product.sbyml.json",
+    "1": "C:\\dev\\wiiumod\\breathofthewild__mod__better_armors_344eb\\BreathOfTheWild_(MOD)_Better_Armors\\Content\\Actor\\ActorInfo.product.sbyml.json"
+  },
+  "output": "C:\\dev\\wiiumod\\Merged\\ActorInfo.product.sbyml.json"
+}
